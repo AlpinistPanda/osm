@@ -8,7 +8,7 @@ it is useful to work on Singapore data. The file I downloaded is 379.8 MB.
 
 ## Setup
 
-Since the osm file exceeds the limit of Github I placed zipped version of the file.
+Since the osm file exceeds the limit of Github I placed zipped version of the file. It should be unzipped first. For the database part mongoDB database should be setup on the OS first. 
 
 ## Procedure
 
