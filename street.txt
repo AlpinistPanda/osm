@@ -2332,35 +2332,3 @@
  's642698': set(['1 jurong west central 3 s642698']),
  'street': set(['Smith street']),
  'terrace': set(['Elias terrace'])}
-
-BLK 531A Upper Cross St => BLK 531A Upper Cross Street
-Gopeng St => Gopeng Street
-Admiralty St => Admiralty Street
-Upper Cross St => Upper Cross Street
-Bukit Timah Rd => Bukit Timah Road
-Stockport Rd => Stockport Road
-Towner Rd => Towner Road
-Jupiter Rd => Jupiter Road
-Upper Bukit Timah Rd => Upper Bukit Timah Road
-St. Andrew's Rd => St. Andrew's Road
-Upper Thomson Rd => Upper Thomson Road
-Bangkit Rd => Bangkit Road
-Farrer Park Station Rd => Farrer Park Station Road
-Tanjong Pagar Rd => Tanjong Pagar Road
-Turf Club Rd => Turf Club Road
-Bah Soon Pah Rd => Bah Soon Pah Road
-Malcolm Rd => Malcolm Road
-Upper East Coast Rd => Upper East Coast Road
-31 Lower Kent Ridge Rd => 31 Lower Kent Ridge Road
-lornie rd => lornie Road
-sunbird rd => sunbird Road
-Bulim Ave => Bulim Avenue
-Greenwood Ave => Greenwood Avenue
-Holland Ave => Holland Avenue
-Sin Min Ave => Sin Min Avenue
-Vanda Ave => Vanda Avenue
-Hillview Ave => Hillview Avenue
-Sengkang East Ave => Sengkang East Avenue
-Sengkang West Ave => Sengkang West Avenue
-Sian Tuan Ave => Sian Tuan Avenue
-Brighton Ave => Brighton Avenue
